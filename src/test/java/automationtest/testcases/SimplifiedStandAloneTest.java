@@ -24,7 +24,7 @@ public class SimplifiedStandAloneTest extends BaseTestClass {
         List<WebElement> products = homepage.getProductList();
 
         //add the desired product in cart
-        homepage.addProductToCart(prodname);// facing perf issue
+        homepage.addProductToCart(prodname);
 
         //cart page
         CartPage cartpage = homepage.goToCart();
