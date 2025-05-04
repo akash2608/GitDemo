@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-04T18:43:14 IST" name="Default suite" finished-at="2025-05-04T18:43:44 IST" duration-ms="29597">
+    <groups>
+    </groups>
+    <test started-at="2025-05-04T18:43:14 IST" name="Default test" finished-at="2025-05-04T18:43:44 IST" duration-ms="29597">
+      <class name="automationtest.testcases.SimplifiedStandAloneTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:automationtest.testcases.SimplifiedStandAloneTest@243c4f91]" started-at="2025-05-04T18:43:14 IST" name="launchApplication" finished-at="2025-05-04T18:43:34 IST" duration-ms="19636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="placeOrderTest()[pri:0, instance:automationtest.testcases.SimplifiedStandAloneTest@243c4f91]" started-at="2025-05-04T18:43:34 IST" name="placeOrderTest" finished-at="2025-05-04T18:43:43 IST" duration-ms="9332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automationtest.testcases.SimplifiedStandAloneTest@243c4f91]" started-at="2025-05-04T18:43:43 IST" name="teardown" finished-at="2025-05-04T18:43:44 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automationtest.testcases.SimplifiedStandAloneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
